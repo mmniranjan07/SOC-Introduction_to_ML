@@ -57,6 +57,7 @@ Demonstrates:
 Method overriding
 Polymorphism
 
+
 Week 2 — Data Analysis & Visualization
 Libraries Used
 NumPy
@@ -110,6 +111,7 @@ Feature creation
 Statistical analysis
 Visualization dashboard
 
+
 Week 3 — Regression Models (Machine Learning)
 Concepts Covered
 Supervised Learning
@@ -140,6 +142,7 @@ Compared sparsity and performance
 Mean Absolute Error (MAE)
 Mean Squared Error (MSE)
 R² Score
+
 
 Week 4 — Classification (Currently Studying)
 Topics Covered
